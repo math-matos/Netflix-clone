@@ -28,4 +28,4 @@ Quer fazer parte desse projeto? Clique [AQUI](CONTRIBUTING.md) e leia como contr
 
 Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.
 
-[⬆ Voltar ao topo](#🍿)<br>
+[⬆ Voltar ao topo](#🍿 Clone da Netflix apenas com HTML e CSS)<br>
